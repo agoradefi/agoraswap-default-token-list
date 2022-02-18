@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Hot Cross Token",
+    "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+    "symbol": "HOTCROSS",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://assets.coingecko.com/coins/images/15706/small/Hotcross.png?1632197570"
+  },
+]
