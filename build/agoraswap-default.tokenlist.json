@@ -1,0 +1,33 @@
+{
+  "name": "Agoraswap Default",
+  "timestamp": "2022-02-18T13:58:15.453Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://legacy.agoradefi.io/assets/img/AGORA_logo.png",
+  "keywords": [
+    "agoraswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "USDC Token",
+      "address": "0xEA32A96608495e54156Ae48931A7c20f0dcc1a21",
+      "symbol": "m.USDC",
+      "decimals": 6,
+      "chainId": 1088,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389"
+    },
+    {
+      "name": "Metis Token",
+      "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+      "symbol": "METIS",
+      "decimals": 18,
+      "chainId": 1088,
+      "logoURI": "https://assets.coingecko.com/coins/images/15595/small/metis.PNG?1621298076"
+    }
+  ]
+}
