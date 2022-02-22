@@ -1,6 +1,6 @@
 {
   "name": "Agoraswap Default",
-  "timestamp": "2022-02-18T13:58:15.453Z",
+  "timestamp": "2022-02-22T18:40:37.528Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -14,6 +14,62 @@
   ],
   "tokens": [
     {
+      "name": "AGORA DEFI",
+      "address": "0x0Ed0Ca6872073E02cd3aE005BaF04bA43BE947fA",
+      "symbol": "AGORA",
+      "decimals": 18,
+      "chainId": 1088,
+      "logoURI": "https://app.agoradefi.io/favicon.png?any=param"
+    },
+    {
+      "name": "kAGORA DEFI",
+      "address": "0x7614124928A2103901F18ED49667D824fcBf6ea1",
+      "symbol": "kAGORA",
+      "decimals": 8,
+      "chainId": 1088,
+      "logoURI": "https://app.agoradefi.io/favicon.png?any=param"
+    },
+    {
+      "name": "kUSDC Token",
+      "address": "0x6D11F074131E3FC61C983cCe538F5D0ca3553c0F",
+      "symbol": "km.USDC",
+      "decimals": 8,
+      "chainId": 1088,
+      "logoURI": "https://app.agoradefi.io/favicon.png?any=param"
+    },
+    {
+      "name": "kUSDT Token",
+      "address": "0x4b45B1905Cd1dC18eDad134d2E43f5043e1E157c",
+      "symbol": "km.USDT",
+      "decimals": 8,
+      "chainId": 1088,
+      "logoURI": "https://app.agoradefi.io/favicon.png?any=param"
+    },
+    {
+      "name": "kMetis Token",
+      "address": "0xcFd482DcE13cA1d27834D381AF1b570E9E6C6810",
+      "symbol": "kMetis",
+      "decimals": 8,
+      "chainId": 1088,
+      "logoURI": "https://app.agoradefi.io/favicon.png?any=param"
+    },
+    {
+      "name": "kWrapped BTC",
+      "address": "0x94E56c0C59433599ba857a9a7243b2826745CF91",
+      "symbol": "kWBTC",
+      "decimals": 8,
+      "chainId": 1088,
+      "logoURI": "https://app.agoradefi.io/favicon.png?any=param"
+    },
+    {
+      "name": "kEther",
+      "address": "0x2E9347dda00B3ec1b188963b590ca1eCBD73145A",
+      "symbol": "kWETH",
+      "decimals": 8,
+      "chainId": 1088,
+      "logoURI": "https://app.agoradefi.io/favicon.png?any=param"
+    },
+    {
       "name": "USDC Token",
       "address": "0xEA32A96608495e54156Ae48931A7c20f0dcc1a21",
       "symbol": "m.USDC",
@@ -22,12 +78,36 @@
       "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389"
     },
     {
+      "name": "USDT Token",
+      "address": "0xbB06DCA3AE6887fAbF931640f67cab3e3a16F4dC",
+      "symbol": "m.USDT",
+      "decimals": 6,
+      "chainId": 1088,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707"
+    },
+    {
       "name": "Metis Token",
       "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
-      "symbol": "METIS",
+      "symbol": "Metis",
       "decimals": 18,
       "chainId": 1088,
       "logoURI": "https://assets.coingecko.com/coins/images/15595/small/metis.PNG?1621298076"
+    },
+    {
+      "name": "Wrapped BTC",
+      "address": "0xa5B55ab1dAF0F8e1EFc0eB1931a957fd89B918f4",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 1088,
+      "logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png?1548822744"
+    },
+    {
+      "name": "Ether",
+      "address": "0x420000000000000000000000000000000000000A",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 1088,
+      "logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png?1595348880"
     }
   ]
 }
